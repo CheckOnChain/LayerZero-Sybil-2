@@ -1,0 +1,17 @@
+I see 623 wallet in this cluster. 
+This is my way to get a list of this Sybil:
+
+1. All wallets in this cluster receive ETH on Ethereum mainnet then claim ZK from PolyHedra airdrop and after claim, they sent all ZK token to this wallet: 0xBC3defAb932D35E4D3bFd65a81a1a36cf9fE79E7 follow **this type: wallet A > wallet B > wallet C** > ...
+
+Etherscan link: https://etherscan.io/token/0xc71b5f631354be6853efe9c3ab6b9590f8302e81?a=0xbc3defab932d35e4d3bfd65a81a1a36cf9fe79e7
+
+2. 500 wallet in this cluster received Arbitrum ETH from 0x616a8caf29ef70cd7e983b91b4ffa01ff4990fe7 on May-30-2023 and all of them sent ETH to 0x616a8caf29ef70cd7e983b91b4ffa01ff4990fe7 on Aug-28-2023 at the same time.
+
+Arbitrum Disperse transaction hash: 0x3dd7f525731f9e978c0f3cea3f87bf6bd024fce2bf547306b1b384380678d637
+0xf4aed9d70daa69302dbf76c494f42b8f37969d83b7131f0113baf44daee749c2
+0x1d1399434ba6deada50322ef09483003cb473f0360f6b6060d2376ebdced9a64
+0xcc33bac68e298c3684d4034c39df970bacfa04938f4d951f4fe25e927d19e16c
+
+3. 500 wallet in this cluster have same activities on Base mainnet on Feb-06-2024. They receive ETH on Base mainnet from other wallet follow type: wallet A > wallet B > wallet C > ... and then, they bridge STG token from Base to other chain.
+
+4. All of this wallet have same total transaction on LayerZeroscan - from 13 to 15 each wallet.
